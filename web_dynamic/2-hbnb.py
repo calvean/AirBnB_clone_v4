@@ -9,7 +9,7 @@ from models import storage
 # flask setup
 app = Flask(__name__)
 app.url_map.strict_slashes = False
-port = 5000
+port = 5003
 host = '0.0.0.0'
 
 
